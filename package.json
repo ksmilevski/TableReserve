@@ -1,0 +1,17 @@
+{
+  "name": "issokapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "laravel-vite-plugin": "^1.2.0",
+    "vite": "^6.1.1"
+  }
+}
